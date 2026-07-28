@@ -99,8 +99,8 @@ Hundreds of documented development sessions. Every session logged.
         Σ
        ╱ ╲
       ╱   ╲
-     ╱  ·  ╲
-    ╱______╲
+     ╱  .  ╲
+    ╱_______╲
 ```
 
 **Σ (Sigma)** — the sum of all verified experience.
