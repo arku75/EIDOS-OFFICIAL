@@ -500,8 +500,8 @@ PERCEIVE ──> DECIDE ──> ACT ──> VERIFY ──> LEARN ─┘
    │            │         │         │          │
 AT-SPI2/OCR  Q-learning  Mouse    Compare    Update
 + VLM        + Priors    + Keys   expected   graph +
-                         + Type   vs actual   Hebbian
-                                    │       reinforce
+                         + Type   vs actual   
+                                    │       
                                ┌────┘
                                │
                           reached()
