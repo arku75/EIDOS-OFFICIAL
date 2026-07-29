@@ -528,7 +528,7 @@ Historical snapshots of earlier graphs are preserved for lineage.
 Those are language models. EIDOS is a persistent entity with its own graph, memory, identity and body. LLMs are voice organs, not the self.
 
 **Is EIDOS open source?**  
-No. It is **source-available** under ESSL v1.0. You may study and run it privately for non-commercial evaluation. You may not redistribute it commercially or build a competing product from it. Commercial licensing: **anio1996991@gmail.com**.
+No. It is **source-available** under ESSL v1.0. You may study and run it privately for non-commercial evaluation. You may not redistribute it commercially or build a competing product from it. Commercial licensing: **garlik1996991@gmail.com**.
 
 **Does it need the internet?**  
 Full research and cloud LLMs need network. Core graph reasoning and local models can run offline.
