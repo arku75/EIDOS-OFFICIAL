@@ -553,7 +553,7 @@ Also: **E**xtensión **I**limitada **D**igital con **O**rganización **S**inápt
 
 | | |
 |:--|:--|
-| **Commercial / partnership** | anio1996991@gmail.com |
+| **Commercial / partnership** | garlik1996991@gmail.com |
 | **License** | [ESSL v1.0](LICENSE) |
 | **Contribute** | Read [CONTRIBUTING.md](CONTRIBUTING.md) before any change |
 
